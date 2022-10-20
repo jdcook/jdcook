@@ -1,5 +1,5 @@
 # Jared Cook - Unreal Engineer
-Hi! I'm currently working solo on an unnanounced co-op game, but I will be posting more about it soon! Follow me on [Twitter](https://twitter.com/FreshCookedDev) to be the first to hear about it!
+Hi! I'm currently working solo on an online co-op game called Storm Blasters, and you can download the prototype on [Itch](https://fresh-cooked-games.itch.io/storm-blasters). Follow me on [Twitter](https://twitter.com/FreshCookedDev) to hear updates about the game!
 
 Check out https://freshcookedgames.com to see my most recent releases.
 
