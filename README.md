@@ -1,4 +1,4 @@
-# Jared Cook - Unreal Engineer
+# Jared Cook - Unreal Engine Programmer
 I've recently accepted a new position and won't be working on my personal projects at the moment.
 
 Check out https://freshcookedgames.com to see my most recent releases.
