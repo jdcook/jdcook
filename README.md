@@ -1,4 +1,4 @@
-# Jared Cook - Unreal Engineer
+# Jared Cook - Game Software Engineer
 See https://freshcookedgames.com for my most recent releases.
 
 ## About Me
