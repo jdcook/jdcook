@@ -1,6 +1,10 @@
-# Jared Cook - Game Software Engineer
-See https://freshcookedgames.com for my most recent releases.
+# Jared Cook - Software Engineer
+See https://freshcookedgames.com for past game projects.
+
+Find **Fresh Cooked Tweens Pro** on Fab: https://www.fab.com/listings/8d37a3cd-b7d1-4796-9d9e-b160a52192f8
+
+Or get the free, open source version here on GitHub: https://github.com/jdcook/fresh_cooked_tweens
 
 ## About Me
-I'm a follower of Jesus who also happens to program while I wait for His second coming, and have been working on video games since 2012. I'm currently working with [**Unreal Engine**](https://store.steampowered.com/search/?developer=Fresh%20Cooked%20Games). I have also made games with [**Unity**](https://store.steampowered.com/app/1693310/Winging_It/), [**MonoGame**](https://store.steampowered.com/app/564080/Metagalactic_Blitz/), **XNA**, and **Phaser**.
+Follower of Jesus.
 
