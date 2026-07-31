@@ -1,5 +1,5 @@
 # Jared Cook - Software Engineer
-See https://freshcookedgames.com for past game projects.
+See https://freshcookedgames.com for solo game projects.
 
 Find **Fresh Cooked Tweens Pro** on Fab: https://www.fab.com/listings/8d37a3cd-b7d1-4796-9d9e-b160a52192f8
 
